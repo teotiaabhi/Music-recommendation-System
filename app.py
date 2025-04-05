@@ -7,7 +7,7 @@ import random
 app = Flask(__name__)
 
 # Replace with your YouTube API key
-YOUTUBE_API_KEY = "AIzaSyBb5EzBnILUw5jTidc2C8swDkiiUvl97Qs"
+YOUTUBE_API_KEY = "AIzaSyClhKeiGYtvK30D6OfhRn55-llYclUX2bE"
 
 # CSV file to store search history
 CSV_FILE = "search_history.csv"
